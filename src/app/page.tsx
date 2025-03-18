@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Full-width Banner */}
+      {/* Full width Banner */}
       <section className={`w-full py-16 text-white text-center ${bannerBg}`}>
         <h1 className="text-4xl font-bold">Things I Enjoy</h1>
         <p className="mt-4 text-lg">
